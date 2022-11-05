@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [2.0.12](https://github.com/JuanC-JC/versioning/compare/v2.0.11...v2.0.12) (2022-11-05)
+
+
+### Bug Fixes
+
+* adding new version ([f9115ef](https://github.com/JuanC-JC/versioning/commit/f9115efba02b78ef8e70793553046d2050ce1d9e))
+* adding postinstall ([d3325ca](https://github.com/JuanC-JC/versioning/commit/d3325ca2bdc6f4cf35c512d1c69bfb1890896135))
+
 ### [2.0.11](///compare/v2.0.10...v2.0.11) (2022-11-05)
 
 ### [2.0.10](///compare/v2.0.2...v2.0.10) (2022-11-05)
